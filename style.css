@@ -1,0 +1,124 @@
+/* style sheet for website1 */
+
+body {
+    display: flex;
+    flex-direction: column;
+
+}
+
+/* Page will be broken into 6 column sections. Header, containers 1-4 and footer */
+/* ----------------------------------------------------------------------------- */
+
+/* Section one Header */
+
+header {
+
+}
+.sub-container1{
+
+}
+.sub-container2{
+
+}
+ul{
+
+}
+a{
+
+}
+
+/* Section two, container1 */
+
+.main-container1 {
+
+}
+.main-container1 .sub-container1{
+
+}
+.main-container1 .sub-container1 .item1 {
+
+}
+.main-container1 .sub-container2 {
+
+}
+.main-container1 .sub-container2 .item1 {
+
+}
+.main-container1 .sub-container2 button {
+
+}
+
+/* Section three, container2 */
+
+.main-container2 {
+
+}
+.main-container2 .sub-container1 {
+
+}
+.main-container2 .sub-container1 .item1 {
+
+}
+.main-container2 .sub-container2 {
+
+} 
+.main-container2 .sub-container2 .item1 {
+
+}
+.main-container2 .sub-container2 .item2 {
+
+}
+.main-container2 .sub-container2 .item3 {
+
+}
+.main-container2 .sub-container2 .item4 {
+
+}
+.sub-item1 {
+
+}
+.sub-item2 {
+
+}
+/* Section four, container3 */
+
+.main-container3 {
+
+}
+.main-container3 .sub-container1 {
+
+}
+.main-container3 .sub-container2 {
+
+}
+
+/* Section five, container4 */
+
+.main-container4 {
+
+}
+.main-container4 .sub-container1 {
+
+}
+.main-container4 .sub-container1 .item1 {
+
+}
+.main-container4 .sub-container1 .item2 {
+
+}
+.main-container4 .sub-container2 {
+
+}
+.main-container4 .sub-container2 button {
+
+}
+/* Section six, footer */
+
+footer {
+
+}
+footer .item1{
+    
+}
+
+/* ----------------------------------------------------------------------------- */
