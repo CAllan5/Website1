@@ -155,21 +155,6 @@ a {
     align-items: center;
     width: 120px;
 }
-.main-container2 .sub-container2 .item2 {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    width: 120px;
-}
-
-.main-container2 .sub-container2 .item3 {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    width: 120px;
-}
 
 .main-container2 .sub-container2 .item4 {
     display: flex;
@@ -180,27 +165,6 @@ a {
 }
 
 .main-container2 .sub-container2 .item1 .sub-item1 {
-    border: 2px solid !important;
-    border-color: rgb(13, 12, 63) !important;
-    height: 120px;
-    width: 120px;
-    border-radius: 5px;
-}
-.main-container2 .sub-container2 .item2 .sub-item1 {
-    border: 2px solid !important;
-    border-color: rgb(13, 12, 63) !important;
-    height: 120px;
-    width: 120px;
-    border-radius: 5px;
-}
-.main-container2 .sub-container2 .item3 .sub-item1 {
-    border: 2px solid !important;
-    border-color: rgb(13, 12, 63) !important;
-    height: 120px;
-    width: 120px;
-    border-radius: 5px;
-}
-.main-container2 .sub-container2 .item4 .sub-item1 {
     border: 2px solid !important;
     border-color: rgb(13, 12, 63) !important;
     height: 120px;
