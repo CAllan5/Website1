@@ -68,7 +68,7 @@ a {
     justify-content: center;
 }
 .main-container1 .sub-container1{
-    margin-top: 50px;
+    margin-top: 0px;
     margin-bottom: 50px;
     margin-left: 90px;
     margin-right: 90px;
@@ -88,9 +88,9 @@ a {
 .main-container1 .sub-container1 .item1 h1 {
     font-size: 30px;
 }
-.main-container1 .sub-container1 .item1 .sub-item1 {
+/* .main-container1 .sub-container1 .item1 .sub-item1 {
 
-}
+} */
 .main-container1 .sub-container1 .item1 button {
     display: flex;
     font-size: 16px;
@@ -142,9 +142,10 @@ a {
 }
 .main-container2 .sub-container2 {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     padding: 20px;
     align-items: center;
+    gap: 25px;
 
 } 
 .main-container2 .sub-container2 .item1 {
@@ -207,50 +208,105 @@ a {
     border-radius: 5px;
 }
 
-
-.sub-item2 {
-
-
-}
 /* Section four, container3 */
 
 .main-container3 {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(114, 70, 70);
+    align-items: center;
+    justify-content: center;
+    padding-right: 200px;
+    padding-left: 200px;
+    padding-top: 100px;
+    padding-bottom: 100px;
 
 }
 .main-container3 .sub-container1 {
+    display: flex;
+    align-items: center;
+    font-size: 20px !important;
+    padding: 20px;
 
 }
 .main-container3 .sub-container2 {
+    display: flex;
+    justify-self: center;
+    align-self: flex-end;
+    margin-right: 60px ;
+    
 
 }
 
 /* Section five, container4 */
 
 .main-container4 {
+    display: flex;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-bottom: 75px;
+    padding-top: 75px;
+    align-content: center;
+    justify-content: center;
+
 
 }
 .main-container4 .sub-container1 {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(241, 10, 10);
+    align-content: space-between;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    gap: 20px;
+
 
 }
 .main-container4 .sub-container1 .item1 {
+    font-size: 20px;
 
 }
 .main-container4 .sub-container1 .item2 {
+    font-size: 15px
 
 }
 .main-container4 .sub-container2 {
+    display: flex;
+    background-color: rgb(241, 10, 10);
+    align-content: center;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    padding-right: 100px; 
 
 }
 .main-container4 .sub-container2 button {
-
+    display: flex;
+    background-color: rgb(13, 12, 63);
+    border-radius: 5px;
+    align-self: center;
+    justify-self: center;
+    align-items: center;
+    justify-content: center;
+    height: 30px;
+    width: 80px;
+    font-size: 15px;
 }
 /* Section six, footer */
 
 footer {
     display: flex;
     justify-self: self-end;
+    background-color: rgb(94, 1, 1);
+    padding: 25px;
+    align-content: center;
+    justify-content: center;
 }
 footer .item1{
+    font-size: 10px;
 
 }
 
